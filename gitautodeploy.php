@@ -4,8 +4,8 @@ const API_URL = "https://api.cloudways.com/api/v1";
 const EMAIL = "vetri@kudometrics.com";
 
 /* examples */
-const BranchName = "master";
-const GitUrl = "git@github.com:vetrikudo/team.git";
+const BranchName = "main";
+const GitUrl = "https://github.com/vetrikudo/team.git";
 
 
 //Use this function to contact CW API
