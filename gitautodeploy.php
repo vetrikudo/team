@@ -3,10 +3,10 @@ const API_KEY = "UNNmu49yD0NSX2l6wI60ljBGimXYYN";
 const API_URL = "https://api.cloudways.com/api/v1";
 const EMAIL = "vetri@kudometrics.com";
 
-/* examples */
+/* examples 
 const BranchName = "main";
 const GitUrl = "https://github.com/vetrikudo/team.git";
-
+*/
 
 //Use this function to contact CW API
 function callCloudwaysAPI($method, $url, $accessToken, $post = [])
