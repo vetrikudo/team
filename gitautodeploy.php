@@ -1,7 +1,7 @@
 <?php
 const API_KEY = "UNNmu49yD0NSX2l6wI60ljBGimXYYN";
 const API_URL = "https://api.cloudways.com/api/v1";
-const EMAIL = "vetri@kudometrics.com";
+const EMAIL = "mediamisterjohn@gmail.com";
 
 /* examples 
 const BranchName = "main";
